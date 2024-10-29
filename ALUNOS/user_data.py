@@ -1,0 +1,2 @@
+user_ = 'SEU_USUÁRIO_ORACLE'
+pass_ = 'SUA_SENHA_ORACLE'
